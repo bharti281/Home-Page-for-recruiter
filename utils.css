@@ -1,0 +1,61 @@
+.bold{
+    font-weight: bold;
+}
+.t-center{
+    text-align: center;
+}
+.f1{
+    font-size: 18px;
+}
+.f2{
+    font-size: 16px;
+}
+.f3{
+    font-size: 14px;
+}
+.f4{
+    font-size: 12px;
+}
+.mt-5{
+    margin-top: 5px;
+}
+button{
+    width: 130px;
+    margin-top: 12px;
+    height: 40px;
+    border-radius: 8px;
+    background: none;
+    border:  1px solid  #010138;
+    font-size: 15px;
+    font-weight: bold;
+    color: #010138;
+    
+
+}
+button:hover{
+    background: #010138;
+    color: #fff;
+
+}
+.btnsm{
+    width: 80px;
+    margin-top: 12px;
+    margin-left: 10px;
+    height: 40px;
+    border-radius: 8px;
+    background: none;
+    border:  1px solid  #010138;
+    font-size: 15px;
+    font-weight: bold;
+    color: #010138;
+
+}
+.richtextbox{
+    width: 230px;
+    border: 2px solid  #0f0f80;
+    padding: 5px 4px;
+    border-radius: 5px;
+    outline: none;
+    font-size: 14px;
+    margin: 0px 3px;
+}

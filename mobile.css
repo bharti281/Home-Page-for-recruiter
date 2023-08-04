@@ -1,0 +1,22 @@
+ @media screen and (max-width:850px){
+    .filterbox{
+       flex-direction: column;
+       /* background-color: red; */
+    }
+    body{
+        overflow-x: hidden;
+    }
+    
+}
+@media screen and (max-width:370px){
+    ul {
+        display: flex;
+        flex-direction: column;
+        /* background: red; */
+        width: 100vw;
+        text-align: center;
+    }
+   ul li{
+        margin-top: 5px;
+    }
+}
